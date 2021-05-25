@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Rest-API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tiberio
+Implementation-Vendor-Id: com.gitrub.tiberiocoelho
+Build-Jdk: 1.8.0_242
+Implementation-URL: https://spring.io/projects/spring-boot/Rest-API
+Created-By: Maven Integration for Eclipse
+
